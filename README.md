@@ -5,7 +5,7 @@ Repositório para o projeto de Análise Exploratoria de Dados dedicado a empresa
 O Loggi Benchmark for Urban Deliveries (BUD) é um repositório do GitHub com dados e códigos para problemas típicos que empresas de logística enfrentam, como otimização das rotas de entrega, alocação de entregas nos veículos da frota com capacidade limitada etc.
 
 ### 📝 Pré-requisitos
-Os pré-requisitos necessários são somente dentro da propria plataforma do google colab, instalar a bibilioteca Geopandas, pois os restantes como Pandas, Matplotlib, Seaborn e Numpy jã vem pré instalados na plataforma
+Os pré-requisitos necessários são somente dentro da propria plataforma do google colab, instalar a bibilioteca Geopandas, pois os restantes como Pandas, Matplotlib, Seaborn e Numpy já vem pré instalados na plataforma
 
 ### 📱 Tecnologias usadas
 * https://seaborn.pydata.org/
